@@ -1,0 +1,482 @@
+[
+  {
+    "tipo": "vino bianco",
+    "nome": "Vermentino di Sardegna",
+    "uvaggio": "Vermentino",
+    "descrizione": "Un vino bianco fresco e sapido, con note di agrumi, fiori bianchi e una leggera mineralità. Ideale come aperitivo o con piatti di pesce.",
+    "prezzo": 55,
+    "id": 1
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Chianti Classico",
+    "uvaggio": "Sangiovese (min. 80%)",
+    "descrizione": "Un vino rosso toscano dal corpo medio, con aromi di ciliegia, violetta e spezie. Perfetto con carni rosse e formaggi stagionati.",
+    "prezzo": 78,
+    "id": 2
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Pinot Grigio",
+    "uvaggio": "Pinot Grigio",
+    "descrizione": "Vino bianco leggero e fruttato, con sentori di mela verde e pera. Ottimo con antipasti leggeri e piatti estivi.",
+    "prezzo": 32,
+    "id": 3
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Barolo",
+    "uvaggio": "Nebbiolo",
+    "descrizione": "Un grande vino rosso piemontese, potente e strutturato, con profumi complessi di rosa, liquirizia e tabacco. Richiede invecchiamento e si abbina splendidamente con arrosti e selvaggina.",
+    "prezzo": 91,
+    "id": 4
+  },
+  {
+    "tipo": "vino rosato",
+    "nome": "Cerasuolo d'Abruzzo",
+    "uvaggio": "Montepulciano",
+    "descrizione": "Un rosato intenso e fruttato, con richiami di amarena e fragola. Versatile, si sposa bene con salumi, pizza e piatti della cucina mediterranea.",
+    "prezzo": 41,
+    "id": 5
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Sauvignon Blanc",
+    "uvaggio": "Sauvignon Blanc",
+    "descrizione": "Vino bianco aromatico e erbaceo, con note di pompelmo e frutto della passione. Ideale con caprini e frutti di mare.",
+    "prezzo": 63,
+    "id": 6
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Merlot",
+    "uvaggio": "Merlot",
+    "descrizione": "Vino rosso morbido e vellutato, con sentori di prugna e cioccolato. Eccellente con pasta al ragù e carni bianche.",
+    "prezzo": 48,
+    "id": 7
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Chardonnay",
+    "uvaggio": "Chardonnay",
+    "descrizione": "Vino bianco versatile, da note fresche e agrumate a quelle più complesse di vaniglia e burro se affinato in legno. Ottimo con pollame e pesce grasso.",
+    "prezzo": 72,
+    "id": 8
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Cabernet Sauvignon",
+    "uvaggio": "Cabernet Sauvignon",
+    "descrizione": "Un vino rosso robusto e tannico, con aromi di cassis, cedro e pepe verde. Perfetto con bistecche alla griglia e selvaggina.",
+    "prezzo": 85,
+    "id": 9
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Riesling",
+    "uvaggio": "Riesling",
+    "descrizione": "Vino bianco aromatico che spazia dal secco al dolce, con note di mela, lime e sentori minerali. Adatto a piatti speziati e cucina asiatica.",
+    "prezzo": 60,
+    "id": 10
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Amarone della Valpolicella",
+    "uvaggio": "Corvina, Rondinella, Molinara",
+    "descrizione": "Vino rosso potente e complesso, prodotto da uve appassite, con note di frutta secca, cacao e spezie. Ideale con brasati e formaggi erborinati.",
+    "prezzo": 99,
+    "id": 11
+  },
+  {
+    "tipo": "vino spumante",
+    "nome": "Prosecco Superiore DOCG",
+    "uvaggio": "Glera",
+    "descrizione": "Spumante fresco e fruttato, con perlage fine e persistente. Ottimo come aperitivo o per celebrazioni.",
+    "prezzo": 28,
+    "id": 12
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Primitivo di Manduria",
+    "uvaggio": "Primitivo",
+    "descrizione": "Vino rosso pugliese dal corpo pieno, con sentori di frutti di bosco maturi e spezie dolci. Ottimo con arrosti e primi piatti saporiti.",
+    "prezzo": 52,
+    "id": 13
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Gewürztraminer",
+    "uvaggio": "Gewürztraminer",
+    "descrizione": "Vino bianco aromatico e speziato, con note di rosa, litchi e zenzero. Ideale con la cucina etnica e formaggi erborinati.",
+    "prezzo": 68,
+    "id": 14
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Montepulciano d'Abruzzo",
+    "uvaggio": "Montepulciano",
+    "descrizione": "Vino rosso di facile beva, con sentori di frutta rossa e una buona struttura. Adatto a paste asciutte e carni bianche.",
+    "prezzo": 39,
+    "id": 15
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Greco di Tufo",
+    "uvaggio": "Greco",
+    "descrizione": "Vino bianco campano di buona struttura, con note floreali e minerali. Perfetto con frutti di mare e formaggi freschi.",
+    "prezzo": 61,
+    "id": 16
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Brunello di Montalcino",
+    "uvaggio": "Sangiovese Grosso",
+    "descrizione": "Uno dei grandi rossi italiani, elegante e longevo, con profumi complessi. Ideale con selvaggina e grandi arrosti.",
+    "prezzo": 95,
+    "id": 17
+  },
+  {
+    "tipo": "vino spumante",
+    "nome": "Franciacorta Satèn",
+    "uvaggio": "Chardonnay",
+    "descrizione": "Spumante metodo classico elegante e cremoso, con bollicine setose e aromi di frutta matura. Ottimo come aperitivo di classe.",
+    "prezzo": 75,
+    "id": 18
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Fiano di Avellino",
+    "uvaggio": "Fiano",
+    "descrizione": "Vino bianco aromatico e persistente, con note di nocciola tostata e fiori di campo. Adatto con piatti di pesce elaborati.",
+    "prezzo": 66,
+    "id": 19
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Nero d'Avola",
+    "uvaggio": "Nero d'Avola",
+    "descrizione": "Vino rosso siciliano dal colore intenso, con sentori di frutta rossa e spezie. Ideale con carni rosse e pasta al forno.",
+    "prezzo": 58,
+    "id": 20
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Pecorino",
+    "uvaggio": "Pecorino",
+    "descrizione": "Vino bianco marchigiano/abruzzese fresco e sapido, con note agrumate e floreali. Ottimo con antipasti e piatti vegetariani.",
+    "prezzo": 43,
+    "id": 21
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Syrah",
+    "uvaggio": "Syrah/Shiraz",
+    "descrizione": "Vino rosso speziato, con note di pepe nero, mora e liquirizia. Si abbina bene con carni alla brace e stufati.",
+    "prezzo": 70,
+    "id": 22
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Verdejo",
+    "uvaggio": "Verdejo",
+    "descrizione": "Vino bianco spagnolo fresco e leggermente amaro, con aromi di anice e frutta tropicale. Eccellente con frutti di mare e paella.",
+    "prezzo": 51,
+    "id": 23
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Ripasso della Valpolicella",
+    "uvaggio": "Corvina, Rondinella, Molinara",
+    "descrizione": "Vino rosso intenso, con sentori di frutta rossa matura e note speziate. Ottimo con salumi e formaggi di media stagionatura.",
+    "prezzo": 69,
+    "id": 24
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Albana di Romagna",
+    "uvaggio": "Albana",
+    "descrizione": "Vino bianco romagnolo, anche in versione passito, con profumi di albicocca e miele. Adatto con dolci secchi e formaggi erborinati.",
+    "prezzo": 47,
+    "id": 25
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Barbera d'Asti",
+    "uvaggio": "Barbera",
+    "descrizione": "Vino rosso piemontese fruttato e con buona acidità, ideale per accompagnare antipasti e primi piatti della tradizione.",
+    "prezzo": 38,
+    "id": 26
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Gavi DOCG",
+    "uvaggio": "Cortese",
+    "descrizione": "Vino bianco piemontese secco e delicato, con sentori di fiori bianchi e mandorla. Perfetto con piatti di mare e antipasti freddi.",
+    "prezzo": 53,
+    "id": 27
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Dolcetto d'Alba",
+    "uvaggio": "Dolcetto",
+    "descrizione": "Vino rosso piemontese giovane e fruttato, con note di ciliegia e mandorla. Ideale per il consumo quotidiano e piatti semplici.",
+    "prezzo": 30,
+    "id": 28
+  },
+  {
+    "tipo": "vino rosato",
+    "nome": "Salento Rosato",
+    "uvaggio": "Negroamaro, Malvasia Nera",
+    "descrizione": "Rosato pugliese vivace e fruttato, con sentori di ciliegia e melograno. Ottimo con aperitivi e cucina estiva.",
+    "prezzo": 25,
+    "id": 29
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Soave Classico",
+    "uvaggio": "Garganega",
+    "descrizione": "Vino bianco veneto elegante e minerale, con note di mandorla e fiori bianchi. Si abbina bene con risotti e piatti di verdure.",
+    "prezzo": 45,
+    "id": 30
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Cannonau di Sardegna",
+    "uvaggio": "Cannonau",
+    "descrizione": "Vino rosso sardo caldo e avvolgente, con aromi di frutta rossa matura e spezie. Ideale con carni arrosto e formaggi sardi.",
+    "prezzo": 65,
+    "id": 31
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Verdicchio dei Castelli di Jesi",
+    "uvaggio": "Verdicchio",
+    "descrizione": "Vino bianco marchigiano fresco e sapido, con sentori di mandorla e anice. Eccellente con brodetto di pesce e fritti.",
+    "prezzo": 49,
+    "id": 32
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Lagrein",
+    "uvaggio": "Lagrein",
+    "descrizione": "Vino rosso altoatesino di carattere, con note di mora, viola e una leggera speziatura. Ottimo con selvaggina e piatti robusti.",
+    "prezzo": 73,
+    "id": 33
+  },
+  {
+    "tipo": "vino spumante",
+    "nome": "Trentodoc Brut",
+    "uvaggio": "Chardonnay, Pinot Nero",
+    "descrizione": "Spumante metodo classico elegante e complesso, con note di crosta di pane e agrumi. Perfetto per celebrazioni e antipasti ricercati.",
+    "prezzo": 88,
+    "id": 34
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Falanghina del Sannio",
+    "uvaggio": "Falanghina",
+    "descrizione": "Vino bianco campano fresco e fruttato, con sentori di mela e pera. Ideale con frutti di mare e piatti leggeri.",
+    "prezzo": 35,
+    "id": 35
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Aglianico del Vulture",
+    "uvaggio": "Aglianico",
+    "descrizione": "Vino rosso lucano potente e tannico, con note di amarena e spezie. Richiede invecchiamento e si abbina a piatti robusti.",
+    "prezzo": 80,
+    "id": 36
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Ribolla Gialla",
+    "uvaggio": "Ribolla Gialla",
+    "descrizione": "Vino bianco friulano fresco e floreale, con buona acidità. Ottimo con antipasti di pesce e risotti.",
+    "prezzo": 50,
+    "id": 37
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Valpolicella Classico",
+    "uvaggio": "Corvina, Rondinella, Molinara",
+    "descrizione": "Vino rosso veneto leggero e fruttato, con note di ciliegia. Ideale per il consumo quotidiano e piatti semplici.",
+    "prezzo": 33,
+    "id": 38
+  },
+  {
+    "tipo": "vino rosato",
+    "nome": "Bardolino Chiaretto",
+    "uvaggio": "Corvina, Rondinella, Molinara",
+    "descrizione": "Rosato veneto delicato e floreale, con sentori di piccoli frutti rossi. Eccellente come aperitivo e con piatti estivi.",
+    "prezzo": 22,
+    "id": 39
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Malvasia Puntinata",
+    "uvaggio": "Malvasia Bianca Puntinata",
+    "descrizione": "Vino bianco laziale aromatico e fruttato, con note di pesca e agrumi. Adatto con antipasti e piatti vegetariani.",
+    "prezzo": 46,
+    "id": 40
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Refosco dal Peduncolo Rosso",
+    "uvaggio": "Refosco dal Peduncolo Rosso",
+    "descrizione": "Vino rosso friulano robusto e tannico, con sentori di frutti di bosco e spezie. Si abbina bene con carni rosse e selvaggina.",
+    "prezzo": 77,
+    "id": 41
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Passerina",
+    "uvaggio": "Passerina",
+    "descrizione": "Vino bianco marchigiano fresco e gradevole, con note di frutta a polpa bianca. Ottimo con aperitivi e piatti leggeri.",
+    "prezzo": 36,
+    "id": 42
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Schioppettino di Prepotto",
+    "uvaggio": "Schioppettino",
+    "descrizione": "Vino rosso friulano caratteristico, con note di pepe nero e lampone. Ideale con carni rosse e formaggi saporiti.",
+    "prezzo": 79,
+    "id": 43
+  },
+  {
+    "tipo": "vino spumante",
+    "nome": "Lambrusco Grasparossa di Castelvetro",
+    "uvaggio": "Lambrusco Grasparossa",
+    "descrizione": "Spumante rosso frizzante, secco e fruttato, con note di violetta e frutti rossi. Perfetto con salumi e formaggi emiliani.",
+    "prezzo": 29,
+    "id": 44
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Traminer Aromatico",
+    "uvaggio": "Gewürztraminer",
+    "descrizione": "Vino bianco trentino aromatico e floreale, con sentori di rosa e litchi. Eccellente con aperitivi e piatti etnici.",
+    "prezzo": 67,
+    "id": 45
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Negroamaro",
+    "uvaggio": "Negroamaro",
+    "descrizione": "Vino rosso pugliese dal corpo pieno, con aromi di frutti scuri e note balsamiche. Ottimo con carni alla griglia e stufati.",
+    "prezzo": 62,
+    "id": 46
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Grechetto",
+    "uvaggio": "Grechetto",
+    "descrizione": "Vino bianco umbro fresco e minerale, con sentori di mela e mandorla. Si abbina bene con antipasti e primi piatti umbri.",
+    "prezzo": 44,
+    "id": 47
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Frappato",
+    "uvaggio": "Frappato",
+    "descrizione": "Vino rosso siciliano leggero e fruttato, con note floreali e di piccoli frutti rossi. Ideale con piatti di pesce elaborati.",
+    "prezzo": 37,
+    "id": 48
+  },
+  {
+    "tipo": "vino spumante",
+    "nome": "Asti Spumante",
+    "uvaggio": "Moscato Bianco",
+    "descrizione": "Spumante dolce e aromatico, con sentori di salvia e fiori d'arancio. Perfetto con dolci a fine pasto.",
+    "prezzo": 20,
+    "id": 49
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Trebbiano d'Abruzzo",
+    "uvaggio": "Trebbiano d'Abruzzo",
+    "descrizione": "Vino bianco abruzzese fresco e semplice, con note di frutta gialla. Ottimo per il consumo quotidiano e piatti leggeri.",
+    "prezzo": 18,
+    "id": 50
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Morellino di Scansano",
+    "uvaggio": "Sangiovese",
+    "descrizione": "Vino rosso toscano giovane e fruttato, con note di mora e spezie. Ideale con primi piatti e carni bianche.",
+    "prezzo": 42,
+    "id": 51
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Sauvignon Collio",
+    "uvaggio": "Sauvignon Blanc",
+    "descrizione": "Vino bianco friulano aromatico e minerale, con sentori di sambuco e peperone. Ottimo con asparagi e crostacei.",
+    "prezzo": 64,
+    "id": 52
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Sagrantino di Montefalco",
+    "uvaggio": "Sagrantino",
+    "descrizione": "Vino rosso umbro potente e tannico, con note di mora e spezie. Richiede invecchiamento e si abbina con arrosti e formaggi stagionati.",
+    "prezzo": 90,
+    "id": 53
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Vernaccia di San Gimignano",
+    "uvaggio": "Vernaccia",
+    "descrizione": "Vino bianco toscano secco e sapido, con sentori di mandorla amara. Perfetto con piatti di pesce e verdure fritte.",
+    "prezzo": 56,
+    "id": 54
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Lambrusco Salamino di Santa Croce",
+    "uvaggio": "Lambrusco Salamino",
+    "descrizione": "Vino rosso frizzante e secco, con profumi di frutta rossa e sentori erbacei. Eccellente con salumi e gnocco fritto.",
+    "prezzo": 17,
+    "id": 55
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Erbaluce di Caluso",
+    "uvaggio": "Erbaluce",
+    "descrizione": "Vino bianco piemontese fresco e minerale, con note di mela verde e agrumi. Ideale con antipasti e pesce di lago.",
+    "prezzo": 40,
+    "id": 56
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Teroldego Rotaliano",
+    "uvaggio": "Teroldego",
+    "descrizione": "Vino rosso trentino fruttato e corposo, con note di frutti di bosco e spezie. Ottimo con carni rosse e formaggi mezzani.",
+    "prezzo": 59,
+    "id": 57
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Lugana",
+    "uvaggio": "Turbiana",
+    "descrizione": "Vino bianco lombardo/veneto fresco e delicato, con note di mandorla e fiori di campo. Perfetto con pesce di lago e piatti leggeri.",
+    "prezzo": 54,
+    "id": 58
+  },
+  {
+    "tipo": "vino rosso",
+    "nome": "Cesanese del Piglio",
+    "uvaggio": "Cesanese di Affile, Cesanese Comune",
+    "descrizione": "Vino rosso laziale dal corpo pieno, con sentori di frutta rossa matura e note speziate. Si abbina bene con piatti della cucina romana.",
+    "prezzo": 68,
+    "id": 59
+  },
+  {
+    "tipo": "vino bianco",
+    "nome": "Fiano di Puglia",
+    "uvaggio": "Fiano",
+    "descrizione": "Vino bianco pugliese aromatico e complesso, con note di frutta esotica e miele. Adatto con frutti di mare e formaggi freschi.",
+    "prezzo": 57,
+    "id": 60
+  }
+]
