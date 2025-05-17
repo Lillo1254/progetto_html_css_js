@@ -40,7 +40,7 @@ let createCard = document.querySelector("#card-shop")
 for (let i = 0; i < data.length; i++) {
     let dataarray = data[i];
     let positionDiv = document.createElement("div")
-    positionDiv.classList.add("col-12" , "col-md-5" , "col-lg-3")
+    positionDiv.classList.add("col-12" , "col-md-5" , "col-lg-3", "d-flex", "justify-content-center", "pb-4")
     positionDiv.innerHTML = `
        <div class="card" style="width: 18rem;">
      <img src="https://picsum.photos/${300 + idvini[i]}" class="card-img-top" alt="...">
