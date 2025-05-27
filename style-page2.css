@@ -1,0 +1,12 @@
+.body-wine-bg{
+
+background:linear-gradient(rgb(200,200,200,0.8)),url(https://www.visittuscany.com/shared/make/immagini/dimensioni-visit-tuscany-15_xBh.jpg?__scale=w:1920,h:700,t:2,q:85);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+.bg-semi {
+  background-color: rgba(0, 0, 0, 0.405) !important;
+  color: white !important; 
+}
